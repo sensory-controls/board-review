@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2025-08-01_20-06-33")(type "KiCad")(uri "/Users/jasonlivingston/Documents/Sensory Controls PCB/KiCADv6/2025-08-01_20-06-33.kicad_sym")(options "")(descr ""))
+  (lib (name "PT01-D130D-B103")(type "KiCad")(uri "/Users/jasonlivingston/Documents/Sensory Controls PCB/PT01_D130D_B103/PT01-D130D-B103.kicad_sym")(options "")(descr ""))
+)
